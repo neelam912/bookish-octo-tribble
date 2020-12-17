@@ -1,1 +1,2 @@
 Hello, creating file for Git
+Git committed
